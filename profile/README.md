@@ -17,7 +17,7 @@ Xin List is a user-friendly tool designed to help you manage and organize item l
 Xin List focuses on providing a straight-forward tool with a clean and intuitive user interface, so you can remain productive.
 
 <a href="https://apps.microsoft.com/detail/Xin%20List/9nd9qt5vgb8f?mode=direct">
-	<img src="https://get.microsoft.com/images/en-gb%20dark.svg" width="200"/>
+	<img src="https://get.microsoft.com/images/en-gb%20dark.svg" width="120"/>
 </a>
 
 ### Xin Snip
