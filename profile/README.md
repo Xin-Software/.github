@@ -25,3 +25,7 @@ Xin List focuses on providing a straight-forward tool with a clean and intuitive
 
 ### Xin Udper
 (TODO)
+
+<p align="center">
+    <small>🧠•XiN•❤️</small>
+</p>
