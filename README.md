@@ -1,1 +1,2 @@
-# .github
+# Xin Software
+Your friendly neighbourhood development team...  
