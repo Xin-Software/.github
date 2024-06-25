@@ -1,4 +1,4 @@
-[!XiN Software](/profile/images/Xin%20Logo.png)
+![XiN Software](/profile/images/Xin%20Logo.png)
 
 
 
