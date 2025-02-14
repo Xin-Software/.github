@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="images/Xin Logo1_Text.png" width="180" >
+    <img src="images/Logo1_Text.png" width="180" >
 </p>
 
 ## ABOUT
