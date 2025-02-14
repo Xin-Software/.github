@@ -3,4 +3,6 @@
 </p>
 
 ## ABOUT
+We build software.  
+
 For more information, please visit our [website](https://www.xin.software).
